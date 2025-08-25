@@ -166,4 +166,4 @@ The training circuit analysis reveals a **diverse dataset** with varying optimiz
 
 **Key Recommendation**: Filter the training dataset to focus on circuits with ≥10% area reduction, which would provide a **high-quality training set** of 319 circuits with clear optimization targets for the RL model.
 
-This analysis provides a **data-driven foundation** for optimizing the RL training process and improving synthesis performance. 
+This analysis provides a **data-driven foundation** for optimizing the RL training process and improving synthesis performance.     
