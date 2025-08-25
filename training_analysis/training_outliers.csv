@@ -1,0 +1,2 @@
+circuit,circuit_path,initial_area,final_area,area_reduction,area_reduction_pct
+ex50.aag,testcase/IWLS/ex50/ex50.aag,83,21,62,74.69879518072288
